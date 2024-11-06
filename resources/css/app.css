@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.wanted-green{
+    background-color: #e7e7e7;
+}
+
+.text-green{
+    color: #4F6F52;
+}
+.border-green{
+    border-bottom: 1px solid;
+    border-bottom-color: #4F6F52 ;
+}
+.borderr-green{
+    border: 1px solid gray;
+}
